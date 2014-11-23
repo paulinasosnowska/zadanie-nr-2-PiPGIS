@@ -1,0 +1,5 @@
+Słowo wystąpiło nastepującą ilość razy:
+
+{'gdy': 1, 'ze': 2, 'nigdy,': 1, 'jest': 2, 'spotkania': 1, 'cierpieniem': 1, 'Bogiem': 1, 'samo': 1, 'przed': 1, 'Wiecznoscia.': 1, 'po': 1, 'cierpialo': 1, 'I': 1, 'bo': 1, 'siegalo': 1, 'poszukiwn': 1, 'niz': 1, 'cierpienie.': 1, 'kazda': 1, 'nie': 1, 'zadne': 1, 'marzenia,': 1, 'strach': 1, 'i': 1, 'straszniejszy': 1, 'swoje': 1, 'Powiedz': 1, 'serce': 1, 'mu,': 1, 'z': 2, 'chwila': 2}Słowo wystąpiło nastepującą ilość razy:
+
+{'gdy': 1, 'ze': 2, 'nigdy,': 1, 'jest': 2, 'spotkania': 1, 'cierpieniem': 1, 'Bogiem': 1, 'samo': 1, 'przed': 1, 'Wiecznoscia.': 1, 'po': 1, 'cierpialo': 1, 'I': 1, 'bo': 1, 'siegalo': 1, 'poszukiwn': 1, 'niz': 1, 'cierpienie.': 1, 'kazda': 1, 'nie': 1, 'zadne': 1, 'marzenia,': 1, 'strach': 1, 'i': 1, 'straszniejszy': 1, 'swoje': 1, 'Powiedz': 1, 'serce': 1, 'mu,': 1, 'z': 2, 'chwila': 2}

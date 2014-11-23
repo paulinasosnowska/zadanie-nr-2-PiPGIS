@@ -1,0 +1,11 @@
+chleb   3.5
+hamburger 9.5
+salatka 12.0
+lasagne 15.0
+spagetti 25.5
+zupa 5.0
+frytki 8.0
+pepsi 5.0
+sok 5.0
+kawa 5.0
+herbata 4.0
